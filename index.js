@@ -1,7 +1,6 @@
 const { Client, Intents } = require("discord.js");
 const ytdl = require("ytdl-core");
-const token =
-  "MTA4ODA1NjExOTYxMzczOTEwOQ.GUt7AE.-jdcqNvFlvavFKt0qQxXrJclpDrye2sARUI3uw";
+const token = process.env.BOT_TOKEN;
 
 const client = new Client({
   intents: [
