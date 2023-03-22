@@ -1,0 +1,30 @@
+{
+  "name": "jookiedlo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPurples/jookiedlo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPurples/jookiedlo/issues"
+  },
+  "homepage": "https://github.com/MrPurples/jookiedlo#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.9.1"
+  }
+}
