@@ -11,8 +11,7 @@ const client = new Client({
   ],
 });
 
-const token =
-  MTA4OTMwMzg0MjY3MzM5Nzc2MA.GFPmXR.vSmGV - _VNC8mfMThAalCL_fHFkl2lgUIFSU800;
+const token = process.env.BOT_TOKEN;
 
 const queue = new Map();
 
