@@ -12,7 +12,7 @@ const client = new Client({
 });
 
 const token =
-  "YMTA4ODA3MzA4MTIwNzEzMjI0MQ.G4zE_1.9VkfhXR76xC-hXUB1OCO7xhBtRj7M4vPyty7mY";
+  MTA4OTMwMzg0MjY3MzM5Nzc2MA.GFPmXR.vSmGV - _VNC8mfMThAalCL_fHFkl2lgUIFSU800;
 
 const queue = new Map();
 
